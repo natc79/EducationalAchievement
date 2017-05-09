@@ -1,0 +1,4 @@
+Very few students attend attend juvenile justice facilities (<1%).  However, conditional on attending there are far more males in juvenile justice facilities than females. While a little less than 10% of the population attends magnet schools there are not huge differences between genders with nearly similar amounts enrolled.
+
+From enrollment.py:
+When examining enrollment and comparing the US demographic distribution we can see that the distribution to drastically differ.  While there are about 2% of the population that is Asian the population has 4%.  Moreover, black males the share is 7% they accounts for 12% in the population.
